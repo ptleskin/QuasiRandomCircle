@@ -1,1 +1,1 @@
-Demonstration of a quasi-random sequence filling a unit circle.
+Demonstration of a Quasi-random Sequence filling a Unit Circle.
